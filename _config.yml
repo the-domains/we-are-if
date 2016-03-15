@@ -1,0 +1,28 @@
+name: WE are IF
+favicon: null
+layout_spectrum: 0.5607570502907038
+typography_spectrum: 0.2518754026386887
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.21842452697455883
+  lightness: 0.07924408372491598
+  saturation: 0.7373177534900606
+  rhythmicContrast: 0.6253124645445496
+purpose: []
